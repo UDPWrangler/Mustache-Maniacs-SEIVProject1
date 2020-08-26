@@ -1,0 +1,17 @@
+/*Style of the standard tab buttons*/
+.tablink {
+    background-color:lightgray;
+    color: gray;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+  }
+
+/* Change background color of buttons on hover */
+.tablink:hover {
+    background-color: gray;
+}
