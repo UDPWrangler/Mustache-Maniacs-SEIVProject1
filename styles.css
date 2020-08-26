@@ -18,13 +18,13 @@
 
 /*CSS for the Header of each page*/
 .pageheader{
-    float:center;
+    text-align:center;
     font-size:24px;
     width: auto;
 }
 
 html {
-    color:maroon;
+    background-color:maroon;
     border-color: #6b0101;
     border-style: groove;
 
