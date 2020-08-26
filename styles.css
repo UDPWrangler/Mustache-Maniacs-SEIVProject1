@@ -15,3 +15,17 @@
 .tablink:hover {
     color: maroon;
 }
+
+/*CSS for the Header of each page*/
+.pageheader{
+    float:center;
+    font-size:24px;
+    width: auto;
+}
+
+html {
+    color:maroon;
+    border-color: #6b0101;
+    border-style: groove;
+
+}
