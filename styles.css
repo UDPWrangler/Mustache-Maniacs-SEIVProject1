@@ -23,13 +23,24 @@
     width: auto;
 }
 
-html {
-    background-color:white;
-
-}
 .pageintro{
     color:black;
+    background-color:maroon;
     font-size: 18px;
     width:80%;
     text-align:center;
 }
+
+
+html {
+    background-color:white;
+
+}
+
+ul{
+    width:60%; 
+    margin-left:auto; 
+    margin-right;
+    text-align:left;
+}
+
