@@ -13,8 +13,10 @@
 
 /* Change background color of buttons on hover */
 .tablink:hover {
-    color: maroon;
+    color: white;
+    background-color:maroon;
 }
+
 
 /*CSS for the Header of each page*/
 .pageheader{
@@ -24,8 +26,7 @@
 }
 
 .pageintro{
-    color:black;
-    background-color:maroon;
+    color:black;;
     font-size: 18px;
     text-align:center;
 }
