@@ -16,7 +16,9 @@
     color: white;
     background-color:maroon;
 }
-
+.centered{
+    text-align:center;
+}
 
 /*CSS for the Header of each page*/
 .pageheader{
